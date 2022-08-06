@@ -1,5 +1,4 @@
-# DSE_R_PROJECT - SCHIAVONI COSIMO 15/04/2021
-READ ME
+# Environmental Kuznets Curve Project 15/04/2021
 
 ***Functional content
 
