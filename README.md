@@ -1,4 +1,4 @@
-# Environmental Kuznets Curve Project 15/04/2021
+# R Shiny App Project 15/04/2021
 
 ***Functional content
 
